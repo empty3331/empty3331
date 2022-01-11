@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 🔭 I’m currently working on ...
+## 🔭 Tech Stack 🔭
 
 ### Front-end
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white"/>
@@ -12,11 +12,13 @@
 
 ### Tools
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic&logo=Eclipse IDE&logoColor=white"/>
+<br/>
+<br/>
 
-## 🌱 I’m currently learning  <br/>
+## 🌱 Learning 🌱
 
 <img src="https://img.shields.io/badge/Amazon Aws-232F3E?style=plastic&logo=Amazon Aws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
 
-## 📫 How to reach me: 
+## 📫 me 📫 
  empty3331@naver.com
 
